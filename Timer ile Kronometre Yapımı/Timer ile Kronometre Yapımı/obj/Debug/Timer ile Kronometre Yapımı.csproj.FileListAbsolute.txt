@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\bin\Debug\Timer ile Kronometre Yapımı.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\bin\Debug\Timer ile Kronometre Yapımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\bin\Debug\Timer ile Kronometre Yapımı.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer ile Kronometre Yapımı.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer_ile_Kronometre_Yapımı.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer_ile_Kronometre_Yapımı.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer ile Kronometre Yapımı.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer ile Kronometre Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer ile Kronometre Yapımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Timer ile Kronometre Yapımı\Timer ile Kronometre Yapımı\obj\Debug\Timer ile Kronometre Yapımı.pdb
