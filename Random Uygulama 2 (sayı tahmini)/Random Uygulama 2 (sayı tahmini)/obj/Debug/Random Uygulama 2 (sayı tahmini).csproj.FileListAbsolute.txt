@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random Uygulama 2 (sayı tahmini).csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random_Uygulama_2__sayı_tahmini_.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random_Uygulama_2__sayı_tahmini_.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random Uygulama 2 (sayı tahmini).csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random Uygulama 2 (sayı tahmini).csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\bin\Debug\Random Uygulama 2 (sayı tahmini).exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\bin\Debug\Random Uygulama 2 (sayı tahmini).exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\bin\Debug\Random Uygulama 2 (sayı tahmini).pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random Uygulama 2 (sayı tahmini).exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Uygulama 2 (sayı tahmini)\Random Uygulama 2 (sayı tahmini)\obj\Debug\Random Uygulama 2 (sayı tahmini).pdb
