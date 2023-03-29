@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random_Kullanımı.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random_Kullanımı.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random Kullanımı.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\bin\Debug\Random Kullanımı.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\bin\Debug\Random Kullanımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\bin\Debug\Random Kullanımı.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random Kullanımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random Kullanımı.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Kullanımı\Random Kullanımı\obj\Debug\Random Kullanımı.csprojAssemblyReference.cache
