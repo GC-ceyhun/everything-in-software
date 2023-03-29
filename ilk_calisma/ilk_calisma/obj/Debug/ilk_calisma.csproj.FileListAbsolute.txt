@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\bin\Debug\ilk_calisma.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\bin\Debug\ilk_calisma.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\bin\Debug\ilk_calisma.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\ilk_calisma\ilk_calisma\obj\Debug\ilk_calisma.pdb
