@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\bin\Debug\Constant Uygulama.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\bin\Debug\Constant Uygulama.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\bin\Debug\Constant Uygulama.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant Uygulama.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant_Uygulama.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant_Uygulama.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant Uygulama.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant Uygulama.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Constant Uygulama\Constant Uygulama\obj\Debug\Constant Uygulama.pdb
