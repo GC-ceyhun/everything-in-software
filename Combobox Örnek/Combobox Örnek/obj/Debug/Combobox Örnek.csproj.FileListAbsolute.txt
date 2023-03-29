@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox_Örnek.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox_Örnek.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox Örnek.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox Örnek.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\bin\Debug\Combobox Örnek.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\bin\Debug\Combobox Örnek.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\bin\Debug\Combobox Örnek.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox Örnek.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox Örnek.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Combobox Örnek\Combobox Örnek\obj\Debug\Combobox Örnek.csprojAssemblyReference.cache
