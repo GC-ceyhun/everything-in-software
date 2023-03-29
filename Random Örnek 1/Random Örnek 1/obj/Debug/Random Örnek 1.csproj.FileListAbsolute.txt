@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\bin\Debug\Random Örnek 1.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\bin\Debug\Random Örnek 1.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\bin\Debug\Random Örnek 1.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random_Örnek_1.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random_Örnek_1.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random Örnek 1.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random Örnek 1.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random Örnek 1.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random Örnek 1.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Random Örnek 1\Random Örnek 1\obj\Debug\Random Örnek 1.csprojAssemblyReference.cache
