@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara (Events) Ortak Kod Yazma.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara__Events__Ortak_Kod_Yazma.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara__Events__Ortak_Kod_Yazma.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara (Events) Ortak Kod Yazma.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara (Events) Ortak Kod Yazma.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\bin\Debug\Olaylara (Events) Ortak Kod Yazma.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\bin\Debug\Olaylara (Events) Ortak Kod Yazma.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\bin\Debug\Olaylara (Events) Ortak Kod Yazma.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara (Events) Ortak Kod Yazma.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Olaylara (Events) Ortak Kod Yazma\Olaylara (Events) Ortak Kod Yazma\obj\Debug\Olaylara (Events) Ortak Kod Yazma.pdb
