@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\bin\Debug\Radio buton.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\bin\Debug\Radio buton.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\bin\Debug\Radio buton.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio buton.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio_buton.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio_buton.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio buton.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio buton.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio buton.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Radio buton\Radio buton\obj\Debug\Radio buton.pdb
