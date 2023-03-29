@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form Örneği ve ListBox Kullanımı.csprojAssemblyReference.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form_Örneği_ve_ListBox_Kullanımı.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form_Örneği_ve_ListBox_Kullanımı.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form Örneği ve ListBox Kullanımı.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form Örneği ve ListBox Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\bin\Debug\Form Örneği ve ListBox Kullanımı.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\bin\Debug\Form Örneği ve ListBox Kullanımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\bin\Debug\Form Örneği ve ListBox Kullanımı.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form Örneği ve ListBox Kullanımı.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\Form Örneği ve ListBox Kullanımı\Form Örneği ve ListBox Kullanımı\obj\Debug\Form Örneği ve ListBox Kullanımı.pdb
