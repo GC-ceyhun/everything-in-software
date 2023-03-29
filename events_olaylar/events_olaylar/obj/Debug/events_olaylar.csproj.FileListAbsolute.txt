@@ -1,0 +1,10 @@
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\bin\Debug\events_olaylar.exe.config
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\bin\Debug\events_olaylar.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\bin\Debug\events_olaylar.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.Properties.Resources.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.csproj.GenerateResource.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.csproj.CoreCompileInputs.cache
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.exe
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.pdb
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.Form1.resources
+C:\Users\csanl\Desktop\M.V.S Projeler\events_olaylar\events_olaylar\obj\Debug\events_olaylar.csprojAssemblyReference.cache
