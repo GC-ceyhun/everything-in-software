@@ -1,0 +1,10 @@
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check Box Uygulama 2.csprojAssemblyReference.cache
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check_Box_Uygulama_2.Form1.resources
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check_Box_Uygulama_2.Properties.Resources.resources
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check Box Uygulama 2.csproj.GenerateResource.cache
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check Box Uygulama 2.csproj.CoreCompileInputs.cache
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\bin\Debug\Check Box Uygulama 2.exe.config
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\bin\Debug\Check Box Uygulama 2.exe
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\bin\Debug\Check Box Uygulama 2.pdb
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check Box Uygulama 2.exe
+C:\Users\csanl\source\repos\Check Box Uygulama 2\Check Box Uygulama 2\obj\Debug\Check Box Uygulama 2.pdb
